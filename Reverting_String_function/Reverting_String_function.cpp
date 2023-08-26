@@ -22,7 +22,7 @@ int main()
 
     cin >> s;
 
-    //s.length()
+    
     int s_idx, e_idx;
     s_idx = 0;
     e_idx = 1;
