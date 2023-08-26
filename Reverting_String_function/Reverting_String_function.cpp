@@ -27,6 +27,7 @@ int main()
     s_idx = 0;
     e_idx = 1;
     while (e_idx < s.length())
+
     {
         if (!isalpha(s[e_idx]) || e_idx == s.length() - 1)
         {
